@@ -165,7 +165,7 @@ run the server using the `serve` package:
 ```json
 "scripts": {
   "test": "echo 'Hello World!'",
-  "start": "serve"
+  "start": "serve",
 }
 ```
 
